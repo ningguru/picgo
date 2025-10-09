@@ -1,3 +1,3 @@
 # picgo
 图片保存
-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
+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
